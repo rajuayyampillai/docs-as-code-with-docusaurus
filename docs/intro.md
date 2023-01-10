@@ -1,47 +1,37 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Why do I vote for Docusaurus?
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
 
-Get started by **creating a new site**.
+Before **Why** let's understand **What** and for **Whom** 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+## What ?
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+⚡️ Docusaurus will help you ship a beautiful documentation site in no time. focus on your content and just write Markdown files
+Out of box features like versioning, i18n, search and theme customizations.
 
-## Generate a new site
+:::tip
 
-Generate a new Docusaurus site using the **classic template**.
+1. Search is not available in GitHub pages.
+2. To publish a GitHub Pages site privately, organization must use GitHub Enterprise Cloud.
+3. Limited themes for HTML layout and CSS
+4. Not build with  💚 React.
 
+:::
+
+## Features I like
+
+ - Extend and customize with React
+ - Gain full control of your site's browsing experience by providing your own React components
+ - **Pluggable** - Bootstrap your site with a basic template, then use advanced features and plugins
 The classic template will automatically be added to your project after you run the command:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Whom ?
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+To devlopers who wants to create documentation and likes to make it simple and effective.
